@@ -217,3 +217,4 @@ pip-wheel-metadata
 # Dev files
 /dev/packages.txt
 /dev/Dockerfile.pmc
+chart/override-values.yaml
